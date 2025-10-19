@@ -9,6 +9,3 @@ Użytkownik podaje:
 - kurs USD/PLN z tabeli NBP (np. 4.12).
 
 Na tej podstawie program wylicza kwotę w dolarach i wyświetla ją z dokładnością do dwóch miejsc po przecinku.
-
-## Jak działa
-Wzór użyty w programie:
